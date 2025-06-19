@@ -12,7 +12,7 @@
 
 I’m an innovative and results-driven Power Platform Developer with a solid background in IT support and digital solution delivery. I've been proudly serving Atlas Copco operations across Angola, Zambia, Kenya, and the UK. With **5+ years in IT support** and **3+ years in low-code/no-code development**, I specialize in building and deploying business applications that enhance operational efficiency.
 
-Currently, I serve as a **Citizen Developer** in the **Architecture and Innovation Team** at Atlas Copco (since July 2024), delivering enterprise-grade solutions using Power Platform and ServiceNow.
+Currently, I serve as a **Citizen Developer** in the **Architecture and Innovation Team** at Atlas Copco Group, delivering enterprise-grade solutions using Power Platform and ServiceNow.
 
 ---
 
